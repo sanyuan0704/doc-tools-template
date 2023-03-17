@@ -5,9 +5,9 @@ hero:
   name: My Tools
   text: 一个很棒的工具
   tagline: 简单、强大、高性能的现代化工程开发方案
-  image:
-    src: https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/logo-4x-01042.png
-    alt: logo
+  # image:
+  #   src: xxx
+  #   alt: logo
   actions:
     - theme: brand
       text: 快速开始

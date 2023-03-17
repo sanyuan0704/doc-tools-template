@@ -5,9 +5,9 @@ hero:
   name: My Module Tools
   text: A great tool
   tagline: A simple, powerful, and high-performance modern engineering development solution
-  image:
-    src: https://lf3-static.bytednsdoc.com/obj/eden-cn/zq-uylkvT/ljhwZthlaukjlkulzlp/logo-4x-01042.png
-    alt: logo
+  # image:
+  #   src: xxx
+  #   alt: logo
   actions:
     - theme: brand
       text: Quick Start
